@@ -32,6 +32,11 @@ Committed to excellence, persistent and highly energetic Software Professional h
 • Designed & developed specific modules of application.</p>
 
 ### Professional Highlights
+**Company:** Mindbody Software<br/>
+**Project Name:** Booker<br/>
+**Description:** Booker is a web application to manage appointments, customers, inventory, staff and schedules for spa and salon. It helps organize appointment bookings, equipment, schedule, staff inventory with easy-to-use product management tools and payroll with flexible compensation options along with all the reporting needs.<br/>
+**Technologies Used:** C#.NET, SQL Server 2018, LINQ, .NET Framework 4.5, Entity Framework, TFS, SpecFlow, NUnit</p>
+
 **Company:** TSYS A Global Payments Company.<br/>
 **Project Name:** ELAPP (Electronic Application) & Boarding API<br/>
 **Description:** ELAPP is a web application to onboard merchants. It helps the merchants to setup with all the configurations needed to start accepting payments.
