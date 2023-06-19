@@ -35,7 +35,7 @@ Committed to excellence, persistent and highly energetic Software Professional h
 **Company:** Mindbody Software<br/>
 **Project Name:** Booker<br/>
 **Description:** Booker is a web application to manage appointments, customers, inventory, staff and schedules for spa and salon. It helps organize appointment bookings, equipment, schedule, staff inventory with easy-to-use product management tools and payroll with flexible compensation options along with all the reporting needs.<br/>
-**Technologies Used:** C#.NET, SQL Server 2018, LINQ, .NET Framework 4.5, Entity Framework, TFS, SpecFlow, NUnit</p>
+**Technologies Used:** C#.NET, SQL Server 2018, LINQ, .NET Framework 4.5, Entity Framework, Git, SpecFlow, NUnit, Twilio, Azure Application Insights, Azure DevOps, Launch Darkly, New Relic, Web API.</p>
 
 **Company:** TSYS A Global Payments Company.<br/>
 **Project Name:** ELAPP (Electronic Application) & Boarding API<br/>
