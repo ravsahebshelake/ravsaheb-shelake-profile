@@ -1,7 +1,7 @@
 # Ravsaheb Shelake
 Senior Software Engineer<br />
 Email ID: - ravsaheb.shelake@gmail.com<br />
-Mobile Number: +91 9028290335.
+Mobile Number: +91 9028290335
 
 ### Executive Summary
 Committed to excellence, persistent and highly energetic Software Professional having 8+ Years of experience in Software Development, Analysis and Design of web-based application in C#, .NET, .Net Core, ASP.NET, ASP.NET MVC, Web API using advance technology like Web Services, WCF, Entity Framework, LINQ, Azure, CI/CD and SOLID Principles development using SQL Server 2008/2012. <br />I have effective organization skills and am proactive in nature with strong analytical & problem-solving abilities.
