@@ -34,6 +34,18 @@ Committed to excellence, persistent and highly energetic Software Professional h
 • Designed & developed specific modules of application.</p>
 
 ### Professional Highlights
+**Company:** Xoriant 05th May 2025 – Till Date
+**Project Name:** NiCE – Migration to Microservices
+**Description:** Contact Engine is a Conversational AI technology. It lets brands reach out to engage customers. The conversations that result can improve customer satisfaction, reduce costs, and fulfill business objectives.
+**Role:** Technical Lead
+**Technologies Used:** .NET 8, C#, Web API, Microservices, MySql, AWS Kubernetes, Unit/Integration Testing, NUnit
+
+**Company:** RIA Advisory LLP. 01st Nov 2023 – 02nd May 2025
+**Project Name:** ESW – Global Returns Platform
+**Description:** The ESW Global Returns service offers a comprehensive returns platform that is supported by a vast network of reverse logistics, ensuring a smooth process for customers returning items. A fully configurable, branded, consumer returns portal that can be easily linked to any existing consumer touch points. The portal allows shoppers to effortlessly create their return, and choose one of many convenient return methods, all in a fully localized experience.
+**Role:** Senior Software Engineer
+**Technologies Used:** C#, .NET6/8, Cosmos DB, LINQ, Web API, Microservices, Kafka, Azure DevOps, Azure Cloud Services, ConfigCat, Unit/Integration Testing
+
 **Company:** Mindbody Software<br/>
 **Project Name:** Booker<br/>
 **Description:** Booker is a web application to manage appointments, customers, inventory, staff and schedules for spa and salon. It helps organize appointment bookings, equipment, schedule, staff inventory with easy-to-use product management tools and payroll with flexible compensation options along with all the reporting needs.<br/>
