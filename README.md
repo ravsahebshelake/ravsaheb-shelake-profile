@@ -13,7 +13,9 @@ Committed to excellence, persistent and highly energetic Software Professional h
 |Tata Technologies Limited | Software Developer | August 2016 – May 2018 | 22 Months|
 |Cognizant | Associate-Projects | May 2018 – August 2020 | 28 Months|
 |TSYS A Global Payments Company | Associate Senior Software Engineer | August 2020 – July 2022 | 24 Months|
-|Mindbody Software|Senior Software Engineer|July 2022 - Till Date| 12 Months|
+|Mindbody Software|Senior Software Engineer|July 2022 - Oct 2023 | 16 Months|
+|RIA Advisory LLP |Senior Software Engineer|Nov 2023 - May 2025| 18 Months|
+|Xoriant |Technical Lead|May 2025 - Till Date| 04 Months|
 
 ### Technical Skills
 • Language & Frameworks: C#, .NET Framework, .Net Core.<br/>
